@@ -1,0 +1,36 @@
+Krissy Brown
+03/10/2023
+SDEV140 Final Project
+"Java Co ordering System" User manual
+
+
+
+This is a user manual for my GUI final project.
+Once the program is ran, a window is displayed which is the Java Co Ordering System. The window includes:
+-an exit button
+-total button
+-clear form button
+-12 functioning calculator buttons
+
+
+
+ On the left you will have the different cafe items to select from including 8 input fields.
+
+Located in the center of the program is the Itemized bill of what is ordered.
+The program will auto-calculate the bill with a total
+ cost of items ordered including:
+    1. tax
+    2. service cost
+    3. subtotal.
+
+  Calculator-
+
+  On the right hand side you will see a calculator to manually calculate the cost of ones orders. It includes clear
+   button, "C", to clear the calculator form.
+
+   Exit
+
+   In order to exit the program you will need to click the image buttom with the red "X", which will then prompt
+   another window asking you to verify if you really want to exit. To leave select "Yes, to stay select "No".
+
+
